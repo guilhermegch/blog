@@ -18,7 +18,7 @@ Since I'm always learning something new, it's impossible to remember everything 
 ---
 My name is Guilherme, and I'm a Brazillian student who loves tech in general. 
 
-![Image of me](blog/assets/img/sample/me.png){: width="200"}
+![Image of me](https://avatars.githubusercontent.com/guilhermegch){: width="200"}
 
 I'm not a specialist and learned ~~almost~~ everything by myself online.
 My interests include hardware and software, with things like:
