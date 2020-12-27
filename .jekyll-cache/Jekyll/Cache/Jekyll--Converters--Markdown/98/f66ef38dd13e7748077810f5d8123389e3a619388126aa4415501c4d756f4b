@@ -1,0 +1,30 @@
+I"d<p>Welcome to my blog!</p>
+
+<p>Since I’m always learning something new, it’s impossible to remember everything in detail. Sometimes I get information from various places and don’t remember exactly where I’ve founded it. Now, I want to keep some of these things written. Those are the purpose of this blog: be an <strong>archive</strong> while make me <strong>practice my English</strong>.</p>
+
+<h2 id="who-am-i">Who am I?</h2>
+<hr />
+<p>My name is Guilherme, and I’m a Brazillian student who loves tech in general.</p>
+
+<p><img src="/assets/img/sample/me.png" alt="Image of me" width="200" /></p>
+
+<p>I’m not a specialist and learned <del>almost</del> everything by myself online.
+My interests include hardware and software, with things like:</p>
+<ul>
+  <li>Analog electronic</li>
+  <li>Digital electronic</li>
+  <li>Hardware design</li>
+  <li>Microcontrollers</li>
+  <li>The maker movement</li>
+  <li>Programming
+    <ul>
+      <li>C</li>
+      <li>Python</li>
+      <li>A bit of web development (HTML and CSS)</li>
+    </ul>
+  </li>
+  <li>Telecom</li>
+  <li>DevOps and infrastructure</li>
+  <li>IoT</li>
+</ul>
+:ET
