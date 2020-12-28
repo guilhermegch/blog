@@ -2,7 +2,7 @@
 title: Setting up and MQTT Broker on Linux
 date: 2020-12-28 20:00:00 -0300
 categories: [IoT, MQTT]
-tags: [iot, mqtt, linux, debian]     # TAG names should always be lowercase
+tags: [iot, mqtt, linux, debian, server]     # TAG names should always be lowercase
 ---
 
 The MQTT stands for Message Queuing Telemetry Transport. It's a lightweight publish-subscribe protocol that usually runs over TCP/IP, used by IoT devices to send and receive data.
