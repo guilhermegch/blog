@@ -34,3 +34,5 @@ My interests include hardware and software, with things like:
 * Telecom
 * DevOps and infrastructure
 * IoT
+
+Feel free to see my material and if you want to contact me, leave a comment on the posts or send me an email at guilhermegmsch@gmail.com
