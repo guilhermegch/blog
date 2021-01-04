@@ -1,5 +1,5 @@
 ---
-title: Setting up and MQTT Broker on Linux
+title: Setting up an MQTT Broker on Linux
 date: 2020-12-28 20:00:00 -0300
 categories: [IoT, MQTT]
 tags: [iot, mqtt, linux, debian, server]     # TAG names should always be lowercase
