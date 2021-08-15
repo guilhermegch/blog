@@ -12,11 +12,11 @@ order: 4
 
 Welcome to my blog!
 
-Since I'm always learning something new, it's impossible to remember everything in detail. Sometimes I get information from various places and don't remember exactly where I've founded it. Now, I want to keep some of these things written. Those are the purpose of this blog: be an **archive** while make me **practice my English**.
+Since I'm always learning something new, it's impossible to remember everything in detail. Sometimes I get information from various places and don't remember exactly where I've founded it. Now, I want to keep some of these things written. Those are the purposes of this blog: be an **archive** while make me **practice my English**.
 
 ## Who am I? ##
 ---
-My name is Guilherme, and I'm a Brazillian student who loves tech in general. 
+My name is Guilherme, and I'm a Brazillian electrical engineering student who loves tech in general. 
 
 ![Image of me](https://avatars.githubusercontent.com/guilhermegch){: width="200"}
 
@@ -28,9 +28,10 @@ My interests include hardware and software, with things like:
 * Microcontrollers
 * The maker movement
 * Programming
-    * C
+    * C/C++
     * Python
     * A bit of web development (HTML and CSS)
+    * R
 * Telecom
 * DevOps and infrastructure
 * IoT
